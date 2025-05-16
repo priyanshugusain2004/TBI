@@ -113,10 +113,3 @@ MIT License
 ---
 
 Feel free to contribute or open issues for improvements!
-
-```
-
----
-
-Just replace `<your-repo-url>` with your actual GitHub repo URL and you’re good to go! Want me to generate it as a file for you?
-```
