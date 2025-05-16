@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the largest planet in our Solar System?",
+    "options": ["Earth", "Saturn", "Jupiter", "Mars"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["China", "Brazil", "United Kingdom", "Russia"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent Van Gogh", "Michelangelo"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": ["1912", "1905", "1920", "1898"],
+    "answer": "1912"
+  },
+  {
+    "question": "Who is known as the father of modern physics?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Gold", "Oxygen", "Silver", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "2"
+  }
+]

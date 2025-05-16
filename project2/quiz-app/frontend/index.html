@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Quiz Master</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🧠 Quiz Master</h1>
+
+    <!-- User Input Screen -->
+    <div id="start-screen">
+      <input type="text" id="username" placeholder="Enter your name" />
+      <button onclick="startQuiz()">Start Quiz</button>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz-box" style="display:none;">
+      <p id="question">Loading...</p>
+      <div id="options"></div>
+      <p id="timer">⏱ Time Left: <span id="time">10</span>s</p>
+      <p id="score">Score: 0</p>
+      <button id="next-btn">Next</button>
+    </div>
+
+    <!-- Result Screen -->
+    <div id="result-box" style="display:none;">
+      <h2>🎉 Quiz Completed!</h2>
+      <p id="final-user"></p>
+      <p id="final-score"></p>
+      <p id="final-percent"></p>
+      <button onclick="location.reload()">Play Again</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

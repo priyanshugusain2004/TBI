@@ -1,0 +1,81 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #667eea, #764ba2);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.container {
+  background-color: #1e1e2f;
+  padding: 30px;
+  border-radius: 15px;
+  width: 400px;
+  text-align: center;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #ffc107;
+}
+
+/* User Input */
+#start-screen input {
+  padding: 10px;
+  width: 80%;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  border: none;
+}
+
+#start-screen button {
+  background-color: #ffc107;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#start-screen button:hover {
+  background-color: #e0a800;
+}
+
+#options button {
+  background-color: #333;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  margin: 8px 0;
+  border-radius: 10px;
+  width: 100%;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+#options button:hover {
+  background-color: #444;
+}
+
+#next-btn {
+  background-color: #ffc107;
+  color: #000;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background 0.3s ease;
+}
+
+#next-btn:hover {
+  background-color: #e0a800;
+}
+
+#result-box p {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 15px;
+  color: #0f0;
+}
