@@ -1,6 +1,4 @@
-Here’s a clean, clear **README.md** file you can use for your GitHub repo explaining your Interactive Quiz App project, how it works, and how to install/run it:
 
-```markdown
 # Interactive Quiz App
 
 A modern, web-based interactive quiz application built with **Node.js**, **Express.js** backend and a **vanilla JavaScript** frontend.
