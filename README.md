@@ -102,11 +102,7 @@ You should see:
 * Vanilla JavaScript for frontend logic
 * HTML5 & CSS3 for UI
 
----
-
-## License
-
-MIT License
+--- priyanshu gusain
 
 ---
 
